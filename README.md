@@ -10,7 +10,6 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>Xin chào! Mình là Vũ Văn Hoàng 👋</h3>
       <ul>
         <li>💼 <b>Full Stack Developer</b> • <b>IT Operation tại Techcombank</b></li>
         <li>🚀 Tập trung xây dựng hệ thống web/app hiệu năng cao, vận hành ổn định và có khả năng mở rộng</li>
