@@ -70,6 +70,8 @@ Ngoài phát triển phần mềm, mình có kinh nghiệm trong **IT Operations
 - Ứng dụng AI vào quy trình phát triển phần mềm và vận hành hệ thống.
 - Xây dựng công cụ hỗ trợ AI cho tự động hóa, phân tích và tối ưu năng suất.
 - Tích hợp AI vào sản phẩm để nâng cao trải nghiệm người dùng và hiệu quả xử lý.
+- Triển khai **MCP (Model Context Protocol)** để kết nối AI agent với dữ liệu, công cụ và hệ thống nội bộ một cách bảo mật, linh hoạt.
+- Thiết kế và phát triển **Agentic AI** theo workflow đa bước (planning → tool use → reflection) nhằm tự động hóa các tác vụ phức tạp đầu-cuối.
 
 ---
 
