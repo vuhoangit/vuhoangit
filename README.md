@@ -67,6 +67,13 @@ Ngoài phát triển phần mềm, mình có kinh nghiệm trong **IT Operations
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+## 🌐 IoT & Embedded Systems
+- Thiết kế và triển khai hệ thống **IoT end-to-end** từ thiết bị edge đến cloud dashboard.
+- Làm việc với vi điều khiển và bo mạch: **Arduino**, **ESP32**, **STM32**.
+- Xây dựng giao tiếp thời gian thực bằng **MQTT** và **WebSocket** cho telemetry & remote control.
+- Tăng cường bảo mật kết nối thiết bị qua **SSL/TLS**, xác thực thiết bị và quản lý chứng chỉ.
+- Thiết kế kiến trúc IoT có khả năng mở rộng: data ingestion, device management, monitoring và alerting.
+
 ## ⛓️ Blockchain
 - Phát triển Smart Contract với **Solidity** trên hệ sinh thái EVM.
 - Xây dựng và tích hợp ứng dụng blockchain vào sản phẩm thực tế.
