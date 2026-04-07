@@ -30,6 +30,7 @@ Ngoài phát triển phần mềm, mình có kinh nghiệm trong **IT Operations
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ## 🧩 Frameworks & Libraries
@@ -65,6 +66,10 @@ Ngoài phát triển phần mềm, mình có kinh nghiệm trong **IT Operations
   <img src="https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+## ⛓️ Blockchain
+- Phát triển Smart Contract với **Solidity** trên hệ sinh thái EVM.
+- Xây dựng và tích hợp ứng dụng blockchain vào sản phẩm thực tế.
 
 ## 🤖 AI Skills
 - Ứng dụng AI vào quy trình phát triển phần mềm và vận hành hệ thống.
