@@ -19,16 +19,16 @@
 - 🤖 Ứng dụng **AI/Agent** vào tự động hóa quy trình kỹ thuật và cải thiện năng suất.
 
 ## 👨‍💻 Về mình
-<table>
+<table style="border: none;">
   <tr>
-    <td width="65%" valign="top" border="0">
+    <td width="65%" valign="top" style="border: none;">
       <ul>
         <li><b>Chuyên môn chính:</b> Full Stack Development, IT Operations, DevOps, AI Integration.</li>
         <li><b>Điểm mạnh:</b> tư duy hệ thống, tối ưu hiệu năng, quan sát vận hành (observability), xử lý sự cố.</li>
         <li><b>Mục tiêu:</b> xây dựng sản phẩm thực tế có khả năng scale tốt và vận hành bền vững.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="top" border="0">
+    <td width="35%" align="center" valign="top" style="border: none;">
       <img src="https://avatars.githubusercontent.com/u/69864257?v=4" alt="Avatar Vũ Văn Hoàng" width="200" style="border-radius: 12px;" />
     </td>
   </tr>
