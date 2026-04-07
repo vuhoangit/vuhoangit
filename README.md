@@ -7,17 +7,21 @@
 ---
 
 ## 🚀 Giới thiệu
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 24px; text-align: left;">
-    <div style="width: 60%; min-width: 260px;">
-      <p>Mình tập trung xây dựng các hệ thống web/app hiệu năng cao, vận hành ổn định và có khả năng mở rộng.</p>
-      <p>Ngoài phát triển phần mềm, mình có kinh nghiệm trong <strong>IT Operations</strong>, <strong>DevOps</strong>, giám sát hệ thống và ứng dụng <strong>AI</strong> để tối ưu quy trình công việc.</p>
-    </div>
-    <div style="width: 40%; min-width: 220px; display: flex; justify-content: center;">
-      <img src="https://avatars.githubusercontent.com/u/69864257?v=4" alt="Ảnh đại diện Vũ Văn Hoàng" width="220" style="border-radius: 16px; max-width: 100%;" />
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <h3>Xin chào! Mình là Vũ Văn Hoàng 👋</h3>
+      <ul>
+        <li>💼 <b>Full Stack Developer</b> • <b>IT Operation tại Techcombank</b></li>
+        <li>🚀 Tập trung xây dựng hệ thống web/app hiệu năng cao, vận hành ổn định và có khả năng mở rộng</li>
+        <li>⚙️ Kinh nghiệm <b>IT Operations</b>, <b>DevOps</b>, giám sát hệ thống và ứng dụng <b>AI</b> để tối ưu quy trình công việc</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://avatars.githubusercontent.com/u/69864257?v=4" alt="Ảnh đại diện Vũ Văn Hoàng" width="220" />
+    </td>
+  </tr>
+</table>
 
 ## 💼 Chuyên môn
 - Full Stack Development
