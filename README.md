@@ -12,8 +12,22 @@
     <td width="60%">
       <ul>
         <li>💼 <b>Full Stack Developer</b> • <b>IT Operation tại Techcombank</b></li>
-        <li>🚀 Tập trung xây dựng hệ thống web/app hiệu năng cao, vận hành ổn định và có khả năng mở rộng</li>
-        <li>⚙️ Kinh nghiệm <b>IT Operations</b>, <b>DevOps</b>, giám sát hệ thống và ứng dụng <b>AI</b> để tối ưu quy trình công việc</li>
+        <li>🚀 Mình tập trung xây dựng hệ thống web/app theo hướng <b>hiệu năng cao</b>, <b>vận hành ổn định</b> và <b>dễ mở rộng</b> cho bài toán thực tế.</li>
+        <li>🧠 Có thể làm việc xuyên suốt vòng đời sản phẩm: từ phân tích yêu cầu, thiết kế kiến trúc, phát triển tính năng, kiểm thử đến triển khai và tối ưu sau phát hành.</li>
+        <li>⚙️ Kinh nghiệm <b>IT Operations</b> và <b>DevOps</b>:
+          <ul>
+            <li>Xây dựng CI/CD, chuẩn hoá release process và tự động hoá các tác vụ lặp lại.</li>
+            <li>Thiết lập monitoring/alerting với Prometheus, Grafana, Dynatrace, Splunk, New Relic để chủ động phát hiện và xử lý sự cố.</li>
+            <li>Vận hành hệ thống Linux, container hoá với Docker/Kubernetes, tối ưu độ tin cậy và khả năng phục hồi dịch vụ.</li>
+          </ul>
+        </li>
+        <li>🤖 Kỹ năng ứng dụng <b>AI</b> vào công việc:
+          <ul>
+            <li>Xây dựng AI tools/agent giúp tự động hoá quy trình kỹ thuật và nghiệp vụ.</li>
+            <li>Tích hợp AI vào sản phẩm để nâng cao trải nghiệm người dùng và tăng tốc độ xử lý.</li>
+            <li>Triển khai mô hình làm việc <b>AI-assisted development</b> để cải thiện chất lượng và năng suất đội ngũ.</li>
+          </ul>
+        </li>
       </ul>
     </td>
     <td width="40%">
