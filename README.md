@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="top" style="border: none;">
-      <img src="https://avatars.githubusercontent.com/u/69864257?v=4" alt="Avatar Vũ Văn Hoàng" width="200" style="border-radius: 12px;" />
+      <img src="d5cc760b-a762-422d-9c27-75098d5d986a.png" alt="Avatar Vũ Văn Hoàng" width="200" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
