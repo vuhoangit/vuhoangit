@@ -1,98 +1,72 @@
-<h1 align="center">Xin chào, mình là Vũ Văn Hoàng 👋</h1>
+<div align="center">
+  <img src="./d5cc760b-a762-422d-9c27-75098d5d986a.png" width="140" alt="Portrait of Vũ Văn Hoàng" />
 
-<p align="center">
-  <strong>Full Stack Developer</strong> • <strong>IT Operations tại Techcombank</strong>
-</p>
+  <h1>Vũ Văn Hoàng</h1>
+  <p><strong>Site Reliability Engineer · DevOps Engineer · Software Engineer</strong></p>
+  <p>Building reliable systems, automating operations, and shipping useful software.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-High%20Performance%20Systems-0A66C2?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20%26%20ITOps-1F883D?style=flat-square" alt="Role" />
-  <img src="https://img.shields.io/badge/Working%20Style-AI%20Assisted%20Development-8A2BE2?style=flat-square" alt="Working Style" />
-</p>
+  <p>
+    <a href="mailto:vuhoangit.dev@gmail.com">Email</a> ·
+    <a href="https://github.com/vuhoangit">GitHub</a> ·
+    <a href="https://github.com/vuhoangit/vkey">Featured project: vkey</a>
+  </p>
+</div>
 
----
+## About me
 
-## ✨ Tóm tắt nhanh
-- 💼 Làm việc ở cả 2 mảng: **phát triển sản phẩm** và **vận hành hệ thống**.
-- 🚀 Tập trung xây dựng hệ thống theo hướng **nhanh**, **ổn định**, **dễ mở rộng**.
-- ⚙️ Có kinh nghiệm đầy đủ từ **phân tích yêu cầu → thiết kế → code → test → triển khai → tối ưu**.
-- 🤖 Ứng dụng **AI/Agent** vào tự động hóa quy trình kỹ thuật và cải thiện năng suất.
+I'm a Vietnam-based software engineer working at the intersection of **site reliability, DevOps, and software development**. My background spans software engineering for IoT products and IT operations in the banking sector.
 
-## 👨‍💻 Về mình
-<table style="border: none;">
-  <tr>
-    <td width="65%" valign="top" style="border: none;">
-      <ul>
-        <li><b>Chuyên môn chính:</b> Full Stack Development, IT Operations, DevOps, AI Integration.</li>
-        <li><b>Điểm mạnh:</b> tư duy hệ thống, tối ưu hiệu năng, quan sát vận hành (observability), xử lý sự cố.</li>
-        <li><b>Mục tiêu:</b> xây dựng sản phẩm thực tế có khả năng scale tốt và vận hành bền vững.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="top" style="border: none;">
-      <img src="d5cc760b-a762-422d-9c27-75098d5d986a.png" alt="Avatar Vũ Văn Hoàng" width="200" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+I enjoy solving engineering problems end to end: designing services, building automation, making systems observable, diagnosing failures, and improving operational reliability.
 
-## 🧠 Tech Stack
+## What I work on
 
-### Ngôn ngữ
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-</p>
+- **Reliability & operations:** production monitoring, incident investigation, operational automation, and service resilience.
+- **Cloud-native engineering:** containers, Kubernetes, CI/CD workflows, configuration management, and deployment practices.
+- **Software development:** backend services, web applications, developer tooling, and performance-aware system design.
+- **Exploration:** Rust-based systems, AI agents and MCP integrations, and embedded/IoT development.
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+## Technical toolbox
 
-### Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/VectorDB-6E40C9?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+| Area | Technologies |
+| --- | --- |
+| Platform & operations | Linux, Docker, Kubernetes, AWS, Jenkins, CI/CD |
+| Observability | Grafana, Dynatrace, Splunk |
+| Languages | Rust, Go, Python, PHP, JavaScript, TypeScript |
+| Web | Laravel, Vue.js, Vite, Tailwind CSS |
+| AI & automation | MCP integrations, agent workflows, RAG concepts |
+| Embedded & IoT | ESP32, FreeRTOS, MQTT |
 
-### DevOps, Monitoring & Operations
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+> Tools are listed by relevance to my work and projects, not as equal claims of expertise.
 
-## 🔧 Năng lực nổi bật
-- **System Reliability:** giám sát, cảnh báo, tối ưu độ ổn định và khả năng phục hồi dịch vụ.
-- **CI/CD & Automation:** chuẩn hóa release process, giảm thao tác thủ công, tăng tốc độ triển khai.
-- **AI Integration:** xây tool/agent hỗ trợ kỹ thuật và nghiệp vụ, tối ưu quy trình phát triển.
-- **MCP & Agentic Workflow:** kết nối AI với dữ liệu/công cụ nội bộ, triển khai flow đa bước cho tác vụ phức tạp.
+## Featured projects
 
-## 🌐 Mảng mở rộng
-- **IoT & Embedded:** Arduino, ESP32, STM32; MQTT/WebSocket; bảo mật kết nối SSL/TLS.
-- **Blockchain:** phát triển smart contract với Solidity và tích hợp vào sản phẩm thực tế.
+### [vkey — Vietnamese input method for macOS](https://github.com/vuhoangit/vkey)
 
----
+A native Vietnamese input method built with **Rust** and **macOS Cocoa APIs**, with Telex/VNI input support and system-level keyboard event handling. The repository includes architecture notes, build instructions, screenshots, and tests.
 
-<p align="center">
-  Cảm ơn bạn đã ghé thăm profile của mình! 🚀
-</p>
+**Focus:** Rust · Native macOS · Event processing · Unicode
+
+### [AI Document Hub](https://github.com/vuhoangit/ai-document)
+
+A structured technical documentation repository organized for both human readers and AI-based retrieval. It applies **Docs-as-Code**, **Diátaxis**, and metadata-driven knowledge organization.
+
+**Focus:** Knowledge architecture · Technical documentation · RAG-readiness
+
+> More engineering case studies can be published here once their descriptions, outcomes, and public sharing permissions are ready.
+
+## Professional background
+
+- **2022–present · Banking IT Operations / SRE:** operating and monitoring production services, improving reliability, and building automation for engineering operations.
+- **2018–2022 · Software engineering / IoT:** developing software and working with connected-device products and technical operations.
+
+*Professional experience is summarized at a high level; confidential implementation details are intentionally omitted.*
+
+## Engineering principles
+
+**Automate repetitive work. Measure before optimizing. Design for failure. Keep systems understandable, secure, and maintainable.**
+
+## Contact
+
+For technical discussions, open-source collaboration, or professional opportunities:
+
+**[vuhoangit.dev@gmail.com](mailto:vuhoangit.dev@gmail.com)** · **[GitHub @vuhoangit](https://github.com/vuhoangit)**
