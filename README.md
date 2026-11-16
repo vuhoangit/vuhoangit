@@ -38,21 +38,35 @@ I enjoy solving engineering problems end to end: designing services, building au
 
 > Tools are listed by relevance to my work and projects, not as equal claims of expertise.
 
-## Featured projects
+## Selected work & projects
 
-### [vkey — Vietnamese input method for macOS](https://github.com/vuhoangit/vkey)
+Much of my professional and product work is maintained in **private repositories** to respect client confidentiality, organizational security requirements, and commercial intellectual property. My public repositories represent only a small part of my engineering work.
 
-A native Vietnamese input method built with **Rust** and **macOS Cocoa APIs**, with Telex/VNI input support and system-level keyboard event handling. The repository includes architecture notes, build instructions, screenshots, and tests.
+### Professional & client work — private
+
+The following are broad areas of experience, not disclosures of specific customer projects:
+
+- **Production reliability & operations:** monitoring, troubleshooting, incident response, operational automation, and service resilience for business-critical applications.
+- **DevOps & delivery engineering:** CI/CD pipelines, deployment processes, configuration standardization, and tooling that makes operations more repeatable.
+- **Software & IoT products:** web application development, backend integrations, and software for connected devices.
+
+*Source code, customer identities, proprietary architecture, and sensitive implementation details are not published.*
+
+### Public projects & technical explorations
+
+**[vkey — Vietnamese input method for macOS](https://github.com/vuhoangit/vkey)**
+
+A native Vietnamese input method built with **Rust** and **macOS Cocoa APIs**, featuring Telex/VNI input support and system-level keyboard event handling.
 
 **Focus:** Rust · Native macOS · Event processing · Unicode
 
-### [AI Document Hub](https://github.com/vuhoangit/ai-document)
+**[AI Document Hub](https://github.com/vuhoangit/ai-document)**
 
-A structured technical documentation repository organized for both human readers and AI-based retrieval. It applies **Docs-as-Code**, **Diátaxis**, and metadata-driven knowledge organization.
+A technical documentation repository organized for human readers and AI-based retrieval, using **Docs-as-Code**, **Diátaxis**, and metadata-driven knowledge organization.
 
 **Focus:** Knowledge architecture · Technical documentation · RAG-readiness
 
-> More engineering case studies can be published here once their descriptions, outcomes, and public sharing permissions are ready.
+> Public project links are provided as examples of technical work, not as a complete portfolio.
 
 ## Professional background
 
