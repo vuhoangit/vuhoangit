@@ -29,7 +29,8 @@ I enjoy solving engineering problems end to end: designing services, building au
 
 | Area | Technologies |
 | --- | --- |
-| Platform & operations | Linux, Docker, Kubernetes, AWS, Jenkins, CI/CD |
+| Cloud & AWS | Amazon EKS, EC2, VPC, IAM, Application Load Balancer (ALB), Auto Scaling, CloudWatch; RDS/Aurora and MSK fundamentals |
+| Platform & DevOps | Linux, Docker, Kubernetes, Jenkins, CI/CD |
 | Observability | Grafana, Dynatrace, Splunk |
 | Languages | Rust, Go, Python, PHP, JavaScript, TypeScript |
 | Web | Laravel, Vue.js, Vite, Tailwind CSS |
