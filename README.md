@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a Vietnam-based software engineer working at the intersection of **site reliability, DevOps, and software development**. My background spans software engineering for IoT products and IT operations in the banking sector.
+I'm a Vietnam-based software engineer working at the intersection of **site reliability, DevOps, and software development**. My professional journey began with freelance software development in 2015, followed by software engineering for IoT products and IT operations in the banking sector.
 
 I enjoy solving engineering problems end to end: designing services, building automation, making systems observable, diagnosing failures, and improving operational reliability.
 
@@ -72,6 +72,7 @@ A technical documentation repository organized for human readers and AI-based re
 
 - **2022–present · Banking IT Operations / SRE:** operating and monitoring production services, improving reliability, and building automation for engineering operations.
 - **2018–2022 · Software engineering / IoT:** developing software and working with connected-device products and technical operations.
+- **2015–2018 · Freelance Software Developer:** independent software development work for clients and projects.
 
 *Professional experience is summarized at a high level; confidential implementation details are intentionally omitted.*
 
